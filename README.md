@@ -1,7 +1,5 @@
 # OpenAI Cookbook
 
-This one is mine - SRH
-
 The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
 
 To run these examples, you'll need an OpenAI account and associated API key ([create a free account][api signup]).
